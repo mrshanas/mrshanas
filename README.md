@@ -39,8 +39,8 @@
 
 
 <p align="center">
-    <a href="https://twitter.com/mrshanas"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="https://www.upwork.com/freelancers/~019e3e31dad95ce8c4"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png"/></a>
-    <a href="fiverr.com/mrshanas"><img src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/></a>
+    <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://www.upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png"/></a>
+    <a href="https://www.fiverr.com/mrshanas?up_rollout=true" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/></a>
 </p>
