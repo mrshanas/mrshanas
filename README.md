@@ -3,7 +3,7 @@
 ---
 
 - Currently learning web development 💻
-- Looking forward to contribute on open source 😉
+- Looking forward to contribute to open source projects 😉
 - Fun fact : debugging is my favorite 😁
 
 ### Languages and Tools
