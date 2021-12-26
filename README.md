@@ -1,6 +1,11 @@
 ### Hi there I'm Shanas 👋
 
+I'm a full stack web developer
+
 ### Languages and Tools
+
+---
+
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.djangoproject.com/"><img  src="https://img.icons8.com/color/48/000000/django.png"/></a>
@@ -21,7 +26,7 @@
 
 ### My Github Stats
 
-  [![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+---
+
+[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
