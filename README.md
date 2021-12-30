@@ -50,8 +50,7 @@
 
 ---
 
-[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=tokyonight&hide_border=true&bg_color=#171515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach Me
 
