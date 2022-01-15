@@ -1,4 +1,4 @@
-### Hi **Shanas** here 👋 | **Web Developer**
+### Hi!, **Shanas** here 👋 | **Web Developer**
 
 ---
 
