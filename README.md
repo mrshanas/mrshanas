@@ -7,6 +7,12 @@
 - Looking forward to contribute to open source projects 😉
 - Fun fact : debugging is my favorite 😁
 
+<p align="center">
+    <a href="https://github.com/mrshanas/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shanas' streak" src="http://github-readme-streak-stats.herokuapp.com?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117"/>
+    </a>
+</p>
+
 ## Languages
 
 
