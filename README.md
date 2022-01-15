@@ -1,14 +1,15 @@
-### Hi!, **Shanas** here 👋 | **Web Developer**
+## Hi!, **Shanas** here 👋 | **Web Developer**
 
----
 
+![](https://komarev.com/ghpvc/?username=mrshanas&style=plastic)
+[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)
 - Currently learning web development with Django 💻
 - Looking forward to contribute to open source projects 😉
 - Fun fact : debugging is my favorite 😁
 
-### Languages
+## Languages
 
----
+
 
 <p align="center"> 
 <!--      -->
@@ -28,8 +29,8 @@
  -->
 </p>
 
-### Frameworks & Tools
----
+## Frameworks & Tools
+
 
 <p align="center" >
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -43,11 +44,11 @@
 
 
 
-### My Github Stats
+## My Github Stats
 
----
 
-[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=tokyonight&hide_border=true&bg_color=#171515)](https://github.com/anuraghazra/github-readme-stats)
+
+[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach Me
 
