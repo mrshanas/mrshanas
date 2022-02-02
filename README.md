@@ -7,6 +7,11 @@
 - Looking forward to contribute to open source projects 😉
 - Fun fact : debugging is my favorite 😁
 
+
+    <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
+    <a href="mailto:nassibshaban345@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+    <a href="https://t.me/mrshanas" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+
 <p align="center">
     <a href="https://github.com/mrshanas/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shanas' streak" src="http://github-readme-streak-stats.herokuapp.com?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117"/>
@@ -21,7 +26,7 @@
 <!--      -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <!--      -->
@@ -56,12 +61,12 @@
 
 [![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-## Reach Me
+## Hire Me
 
 
 <p align="center">
-    <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
+    <!--<a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>-->
     <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="https://www.upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-color-tal-revivo.png"/></a>
-    <a href="https://www.fiverr.com/mrshanas?up_rollout=true" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/></a>
+    <a href="https://www.upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://www.fiverr.com/mrshanas?up_rollout=true" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 </p>
