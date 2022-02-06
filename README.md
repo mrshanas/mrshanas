@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mrshanas&style=plastic)
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
-- Currently learning web development with Django and React 💻
+- Currently doing web development with Django and React 💻
 - Looking forward to contribute to open source projects 😉
 - Fun fact : debugging is my favorite 😁
 
