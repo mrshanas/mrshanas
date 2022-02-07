@@ -4,8 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=mrshanas&style=plastic)
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
 - Currently doing web development with Django and React 💻
-- Looking forward to contribute to open source projects 😉
-- Fun fact : debugging is my favorite 😁
+- Open source contributor 
+- Fun fact : debugging is my favourite 😁
 
 
     <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
