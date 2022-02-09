@@ -1,7 +1,6 @@
 ## Hi!, **Shanas** here 👋 
 
 
-![](https://komarev.com/ghpvc/?username=mrshanas&style=plastic)
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
 - Currently doing web development with Django and React
 - Open source contributor 
@@ -70,3 +69,5 @@
     <a href="https://www.upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"/></a>
     <a href="https://www.fiverr.com/mrshanas?up_rollout=true" target="_blank"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=mrshanas&style=plastic)
