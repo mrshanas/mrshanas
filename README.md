@@ -2,7 +2,7 @@
 
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
-- Currently doing web development with Django and React
+- Currently doing web development with Django and the MERN Stack
 - Open source contributor 
 - Fun fact : debugging is my favourite 😁
 
