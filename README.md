@@ -6,7 +6,7 @@ Currently doing
 - Web development with Django and the MERN Stack
 - Web Scraping and Automation with Python 😎
 - API development and documentation
-- Open source contribution 
+- Open source contribution in my free time
 
 *Fun fact : debugging is my favourite 😁*<br/>
     <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
