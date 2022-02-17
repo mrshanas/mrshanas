@@ -2,11 +2,13 @@
 
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
-- Currently doing web development with Django and the MERN Stack
-- Open source contributor 
-- Fun fact : debugging is my favourite 😁
+Currently doing 
+- Web development with Django and the MERN Stack
+- Web Scraping and Automation with Python 😎
+- API development and documentation
+- Open source contribution 
 
-
+Fun fact : debugging is my favourite 😁<br/>
     <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
     <a href="mailto:nassibshaban345@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
     <a href="https://t.me/mrshanas" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
@@ -17,9 +19,8 @@
     </a>
 </p>
 
+
 ## Languages
-
-
 
 <p align="center"> 
 <!--      -->
