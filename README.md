@@ -69,7 +69,7 @@
 *Will be uploaded soon*
 
 
-### Finding a remote freelancer???
+### Looking for a remote freelancer???
  *Reach me*
  
   <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
