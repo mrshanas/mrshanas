@@ -28,7 +28,6 @@
 <!--      -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-    <a href="https://www.tutorialspoint.com/cprogramming/index.htm" ><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://www.postgresql.org/" target="_self"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <a href="https://docs.mongodb.com/manual/crud/" target="_parent"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
      <!--<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>
