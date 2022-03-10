@@ -65,7 +65,9 @@
 [![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
-1. [mrshanas.com](https://mrshanas.com) My own developer portfolio explaining about what I do
+|Name |Description |Demo |Source Code|
+|-----|------------|-----|-----------|
+|Portfolio|My personal portfolio website|[mrshanas](https://mrshanas.com)|[portfolio](https://github.com/mrshanas/portfolio)|
 
 
 ### Looking for a remote freelancer???
