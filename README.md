@@ -67,7 +67,7 @@
 # Projects
 |Name |Description |Demo |Source Code|
 |-----|------------|-----|-----------|
-|Portfolio|My personal portfolio website|[mrshanas](https://mrshanas.com)|[portfolio](https://github.com/mrshanas/portfolio)|
+|Portfolio|My personal portfolio website|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
 
 
 ### Looking for a remote freelancer???
