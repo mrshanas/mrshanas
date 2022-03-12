@@ -68,6 +68,7 @@
 |Name |Description |Demo |Source Code|
 |-----|------------|-----|-----------|
 |Portfolio|My personal portfolio website|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
+|Insta|An Instagram clone|*Under development*|[mrshanas/insta-clone](https://github.com/mrshanas/insta-clone)|
 
 
 ### Looking for a remote freelancer???
