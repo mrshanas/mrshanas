@@ -70,7 +70,7 @@
 *To be uploaded soon*
 
 # Projects(Personal)
-*These are my practice project I made on my journey being a full stack web developer*
+*These are my practice project I made on my journey becoming a full stack web developer*
 |Name |Description |Demo |Source Code|
 |-----|------------|-----|-----------|
 |Portfolio|My personal portfolio website|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
