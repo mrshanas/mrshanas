@@ -7,7 +7,7 @@
 - Web Scraping and Automation with Python 😎
 - API development and documentation
 - Open source contribution in my free time
-
+### Currently learning [React Query](https://react-query.tanstack.com)
 *Fun fact : debugging is my favourite 😁*<br/>
     <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
     <a href="mailto:nassibshaban345@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
