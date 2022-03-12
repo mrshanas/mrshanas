@@ -2,11 +2,13 @@
 
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
-### Specialty 
-- Web development with Django and the MERN Stack
-- Web Scraping and Automation with Python 😎
-- API development and documentation
-- Open source contribution in my free time
+## Here's what I do
+- Open source contribution
+- Web development
+    1. Frontend(React)
+    2. Backend(Django && NodeJs)
+- Web scraping
+- Freelancing
 ### Currently learning [React Query](https://react-query.tanstack.com)
 *Fun fact : debugging is my favourite 😁*<br/>
     <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
@@ -64,7 +66,11 @@
 
 [![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projects
+# Projects (For my clients)
+*To be uploaded soon*
+
+# Projects(Personal)
+*These are my practice project I made on my journey being a full stack web developer*
 |Name |Description |Demo |Source Code|
 |-----|------------|-----|-----------|
 |Portfolio|My personal portfolio website|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
