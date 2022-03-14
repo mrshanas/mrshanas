@@ -4,11 +4,12 @@
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
 ## Here's what I do
 - Open source contribution
+- Freelancing
 - Web development
     1. Frontend(React)
     2. Backend(Django && NodeJs)
 - Web scraping
-- Freelancing
+
 ### Currently learning [React Query](https://react-query.tanstack.com)
 *Fun fact : debugging is my favourite 😁*<br/>
     <a href="https://twitter.com/mrshanas" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
