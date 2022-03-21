@@ -2,7 +2,7 @@
 - I love movies 😁 alot
 - Marvel Fan 🎬
 - Peter once said 🙂
-  - *You'll never know when you are ready, Its a leap of faith* (Spiderman: Into the Spiderverse, 2018)
+  - *You'll never know when you are ready, Its a leap of faith* (Into the Spiderverse, 2018)
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/mrshanas?style=social&label=Followers&maxAge=2592000)](https://github.com/mrshanas?tab=followers)-->
 ## Here's what I do
