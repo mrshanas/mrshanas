@@ -9,7 +9,7 @@
 - Open source contribution
 - Freelancing
 - Web development
-    1. Frontend(React)
+    1. Frontend(React && Sass)
     2. Backend(Django && NodeJs)
 - Web scraping
 
