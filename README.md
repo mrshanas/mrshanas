@@ -28,32 +28,18 @@
 
 
 
-## Languages & Databases
+## Languages 
 
 <p align="center"> 
-<!--      -->
     <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-    <a href="https://www.postgresql.org/" target="_self"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
-    <a href="https://docs.mongodb.com/manual/crud/" target="_parent"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-     <!--<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> -->
-<!--      -->
-    
-   
-<!--     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
-<!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
-<!--    
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
- -->
+    <a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 </p>
 
+
+
 ## Frameworks & Tools
-
-
 <p align="center" >
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
