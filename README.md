@@ -66,7 +66,7 @@
 *These are my practice projects I made on my journey becoming a full stack web developer*
 |Name |Description |Demo |Source Code|
 |-----|------------|-----|-----------|
-|Portfolio|My personal portifolio website|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
+|Portifolio|Just check it out 😅|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
 |Insta|An Instagram clone|*Under development*|[mrshanas/insta-clone](https://github.com/mrshanas/insta-clone)|
 
 
