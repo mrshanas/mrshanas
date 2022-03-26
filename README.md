@@ -34,7 +34,7 @@
     <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-    <a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+    <!--<a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>-->
 </p>
 
 
