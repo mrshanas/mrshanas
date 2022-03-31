@@ -62,12 +62,12 @@
 |---|---|---|
 |Smartshop|POS shop management app|[smartshop](https://pos-smartshop.herokuapp.com)|
 
-# Projects(Personal)
+<!--# Projects(Personal)
 *These are my practice projects I made on my journey becoming a full stack web developer*
 |Name |Description |Demo |Source Code|
 |-----|------------|-----|-----------|
 |Portifolio|Just check it out 😅|[mrshanas](https://mrshanas.com)|[mrshanas/portfolio](https://github.com/mrshanas/portfolio)|
-|Insta|An Instagram clone|*Under development*|[mrshanas/insta-clone](https://github.com/mrshanas/insta-clone)|
+|Insta|An Instagram clone|*Under development*|[mrshanas/insta-clone](https://github.com/mrshanas/insta-clone)|-->
 
 
 ### Looking for a remote freelancer???
