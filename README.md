@@ -55,7 +55,7 @@
 
 ## My Github Stats
 
-[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![mrshanas' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects (Freelancer)
 |Name|Description|Demo|
