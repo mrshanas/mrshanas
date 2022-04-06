@@ -5,7 +5,7 @@
   - *You'll never know when you are ready, Its a leap of faith* (Into the Spiderverse, 2018)
 
 ## Here's what I do
-- Open source contribution
+- Open source contributions
 - Freelancing
 - Web development
     1. Frontend(React && Sass)
