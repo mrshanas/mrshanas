@@ -69,7 +69,7 @@
 |Insta|An Instagram clone|*Under development*|[mrshanas/insta-clone](https://github.com/mrshanas/insta-clone)|-->
 
 
-### Looking for a remote freelancer???
+### Hire Me 😃
  
   <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://www.upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"/></a>
