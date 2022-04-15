@@ -1,5 +1,5 @@
 # Ola!, **Shanas** here 👋 
-- I love movies 😁 alot
+- It's all about movies for me
 - Marvel Fan 🎬
 - Peter once said 🙂
   - *You'll never know when you are ready, Its a leap of faith* (Into the Spiderverse, 2018)
