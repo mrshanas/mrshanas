@@ -1,15 +1,6 @@
 <h1 align="center">Hi, I'm Shanas🙃</h1>
-<h3 align="center">Technology nerd </h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117" alt="mrshanas" /></p>
+<h3>Backend Developer who's trying to master frontend 😅</h3>
 
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshanas&theme=onedark" alt="mrshanas" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile" alt="mrshanas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
 
 - 🔭 I’m currently working on [Smartshop](https://pos-smartshop.herokuapp.com)
 
@@ -21,15 +12,22 @@
 
 - 👨‍💻 All of my projects are available at [https://projects.mrshanas.com](https://projects.mrshanas.com)
 
-- 📝 I regularly write articles on [https://dev.to](https://dev.to)
-
 - 💬 Ask me about **React, Django, Python, Javascript**
 
 - 📫 How to reach me **me@mrshanas.com**
 
 - ⚡ Fun fact **I enjoy debugging**
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117" alt="mrshanas" /></p>
 
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshanas&theme=onedark" alt="mrshanas" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile" alt="mrshanas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
 
 # Languages
 ![JavaScrip](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
