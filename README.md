@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shanas🙃</h1>
-<h3>Backend Developer who's trying to master frontend 😅</h3>
+<h3>Backend Developer who's trying to master Frontend 😅</h3>
 
 
 - 🔭 I’m currently working on [Smartshop](https://pos-smartshop.herokuapp.com)
@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **UI/UX designs**
 
-- 👨‍💻 All of my projects are available at [https://projects.mrshanas.com](https://projects.mrshanas.com)
-
 - 💬 Ask me about **React, Django, Python, Javascript**
 
 - 📫 How to reach me **me@mrshanas.com**
@@ -19,9 +17,6 @@
 - ⚡ Fun fact **I enjoy debugging**
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117" alt="mrshanas" /></p>
-
-
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshanas&theme=onedark" alt="mrshanas" /></a> </p>
 
@@ -86,15 +81,22 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![Twitter Follow](https://img.shields.io/twitter/follow/mrshanas?color=blue&style=for-the-badge)
-
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=mrshanas&label=Profile%20views&color=0e75b6&style=plastic" alt="mrshanas" /> 
+## Am available at
+<p align="center">
+  <a href="mailto:nassibshaban345@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Gmail"/>
+  </a>
+  <a href="https://twitter.com/mrshanas" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" title="Twitter"/>
+  </a>
+  <a href="https://t.me/mrshanas" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
 </p>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/mrshanas"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrshanas" />
