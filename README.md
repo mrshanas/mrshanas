@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I enjoy debugging**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117" alt="mrshanas" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF0F&background=0D1117" alt="mrshanas" /></p>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshanas&theme=onedark" alt="mrshanas" /></a> </p>
 
