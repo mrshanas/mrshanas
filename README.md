@@ -2,7 +2,7 @@
 <h3>Backend Developer who's trying to master Frontend 😅</h3>
 
 
-- 🔭 I’m currently working on [Smartshop](https://pos-smartshop.herokuapp.com)
+- 🔭 I’m currently working on Oblivion
 
 - 🌱 I’m currently learning **Next.JS**
 
