@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Django, Python, Javascript**
 
-- 📫 How to reach me **me@mrshanas.com**
+<!-- - 📫 How to reach me **me@mrshanas.com**-->
 
 - ⚡ Fun fact **I enjoy debugging**
 
