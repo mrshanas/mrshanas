@@ -2,15 +2,14 @@
 <h3>Backend Developer who's trying to master Frontend 😅</h3>
 
 
-- 🔭 I’m currently working on Oblivion
-
+- 🔭 I’m currently working on [Smartshop](https://pos-smartshop.herokuapp.com)
 - 🌱 I’m currently learning **Next.JS**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 🤝 I’m looking for help with **UI/UX designs**
 
-- 💬 Ask me about **React, Django, Python, Javascript**
+- 💬 Ask me about **Movies, React, Django, Python, Javascript**
 
 <!-- - 📫 How to reach me **me@mrshanas.com**-->
 
