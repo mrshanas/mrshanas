@@ -19,7 +19,7 @@
 
 ## Am available
 <p align="center">
-  <a href="rk.com/freelancers/~019e3e31dad95ce8c4" target="_blank">
+  <a href="upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank">
     <img src="https://img.icons8.com/ios/50/2ECC71/upwork.png"/>
   </a>
   <a href="mailto:nassibshaban345@gmail.com" target="_blank">
