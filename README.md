@@ -11,25 +11,25 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 <p>
-  <a href="https://djangoproject.com">
+  <a href="https://djangoproject.com" title="Django and Django REST">
     <img src="https://img.icons8.com/ios-filled/50/2ECC71/django.png"/>
   </a>
-  <a href="https://reactjs.org">
+  <a href="https://reactjs.org" title="React and React Native">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
-  <a>
+  <a href="" title="NodeJs and Express">
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   </a>
-  <a>
+  <a href="" title="Redux">
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   </a>
-  <a>
+  <a href="" title="VueJs and Nuxt">
     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
   </a>
-  <a>
+  <a href="" title="Google Firebase">
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   </a>
-  <a>
+  <a href="" title="Docker">
     <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
   </a>
 </p>
