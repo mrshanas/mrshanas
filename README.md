@@ -14,9 +14,9 @@
   <a href="" title="Redux">
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   </a>
-  <a href="" title="VueJs and Nuxt">
+  <!--<a href="" title="VueJs and Nuxt">
     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-  </a>
+  </a>-->
   <a href="" title="Google Firebase">
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   </a>
