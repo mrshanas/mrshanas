@@ -11,8 +11,14 @@
   <a href="" title="NodeJs and Express">
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   </a>
+  <a href="https://code.visualstudio.com" title="VS Code">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  </a>
   <a href="" title="Redux">
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  </a>
+  <a href="" title="MongoDB">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </a>
   <!--<a href="" title="VueJs and Nuxt">
     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
@@ -22,6 +28,9 @@
   </a>
   <a href="" title="Docker">
     <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+  </a>
+  <a href="https://figma.com" title="Figma">
+    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
   </a>
 </p>
 
