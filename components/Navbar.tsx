@@ -49,6 +49,10 @@ const Navbar: React.FC = () => {
           </a>
         </div>
       </nav>
+
+      {/*
+        A nav links container to be displayed in small screens
+        */}
       <div
         className={`${
           isNavOpen
