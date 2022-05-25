@@ -1,3 +1,5 @@
+import { ReactNode } from "react";
+
 interface nav {
   url: string;
   to: string;
