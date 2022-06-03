@@ -3,7 +3,7 @@ import Head from "next/head";
 import Navbar from "@/components/Navbar";
 import Work from "@/components/Content/Work";
 import Hero from "@/components/Content";
-import { works } from "@/constants/works";
+import About from "@/components/Content/About";
 
 const Home: NextPage = () => {
   return (
@@ -19,9 +19,12 @@ const Home: NextPage = () => {
         </header>
         <section>
           <Hero />
-          {works.map(({ description, url, image }, i) => (
+          <About />
+          <Work/>
+          {/* {works.map(({ description, url, image }, i) => (
             <Work description={description} url={url} image={image} key={i} />
-          ))}
+          ))} */}
+          
         </section>
       </main>
       <footer></footer>
