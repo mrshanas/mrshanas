@@ -4,6 +4,7 @@ import Navbar from "@/components/Navbar";
 import Work from "@/components/Content/Work";
 import Hero from "@/components/Content";
 import About from "@/components/Content/About";
+import Skills from "@/components/Content/Skills";
 
 const Home: NextPage = () => {
   return (
@@ -20,11 +21,8 @@ const Home: NextPage = () => {
         <section>
           <Hero />
           <About />
-          <Work/>
-          {/* {works.map(({ description, url, image }, i) => (
-            <Work description={description} url={url} image={image} key={i} />
-          ))} */}
-          
+          <Work />
+          <Skills />
         </section>
       </main>
       <footer></footer>
