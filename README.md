@@ -1,4 +1,5 @@
-[Me, Myself and I](https://mrshanas.com)
+[Me, Myself and I](https://mrshanas.com) <br/>
+Nerd
 # Tech stack
 
 <p>
