@@ -29,6 +29,9 @@
   <a href="" title="Docker">
     <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
   </a>
+  <a href="https://flutter.dev" title="Flutter">
+    <img src="https://img.icons8.com/color/48/undefined/flutter.png"/>
+  </a>
   <a href="https://figma.com" title="Figma">
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
   </a>
