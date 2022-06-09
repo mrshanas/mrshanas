@@ -1,4 +1,5 @@
-[Me, Myself and I](https://mrshanas.com)
+Hello there folks I'm technically a Nerd, I enjoying working with technology and learning new things
+[Find Out](https://mrshanas.com)
 # Tech stack
 
 <p>
