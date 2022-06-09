@@ -24,10 +24,10 @@ Hello there folks I'm technically a Nerd, I enjoying working with technology and
   <!--<a href="" title="VueJs and Nuxt">
     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
   </a>-->
-  <a href="" title="Google Firebase">
+  <a href="https://firebase.google.com" title="Google Firebase">
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   </a>
-  <a href="" title="Docker">
+  <a href="https://www.docker.com" title="Docker">
     <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
   </a>
   <a href="https://flutter.dev" title="Flutter">
