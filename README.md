@@ -1,5 +1,4 @@
 Hello there folks, I'm 
-  - Technically a Nerd 👨‍💻
   - Enjoying working with technology and learning new things
   - Web Dev
   - Freelancer
