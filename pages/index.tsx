@@ -1,10 +1,10 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Navbar from "@/components/Navbar";
-import Work from "@/components/Content/Work";
 import Hero from "@/components/Content";
 import About from "@/components/Content/About";
 import Skills from "@/components/Content/Skills";
+import Works from "@/components/Content/Works";
 
 const Home: NextPage = () => {
   return (
@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <section>
           <Hero />
           <About />
-          <Work />
+          <Works />
           <Skills />
         </section>
       </main>

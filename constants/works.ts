@@ -6,9 +6,9 @@ import pic3 from "public/assets/images/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.
 interface works {
   heading: string;
   url: string;
-  image: StaticImageData;
   description: string;
   dir: string;
+  image: StaticImageData;
 }
 
 export const works: works[] = [
@@ -18,7 +18,7 @@ export const works: works[] = [
     description:
       "This is an online point of sale app(POS) that enables a shop owner to manage his/her business from anywhere",
     image: pic1,
-    dir: "flex-row",
+    dir: "",
   },
   {
     heading: "Nasmart",
@@ -26,7 +26,8 @@ export const works: works[] = [
     description:
       "This is my personal e-commerce project for electronic devices and smartphones",
     image: pic2,
-    dir: "flex-row-reverse",
+
+    dir: "order-last",
   },
   {
     heading: "POS",
@@ -34,6 +35,7 @@ export const works: works[] = [
     description:
       "This is a featured project collaborated with my teammate @echichibs, It is an online point of sale app",
     image: pic3,
-    dir: "flex-row",
+
+    dir: "",
   },
 ];
