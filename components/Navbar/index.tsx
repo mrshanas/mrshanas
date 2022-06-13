@@ -1,7 +1,7 @@
 import { FC, useState } from "react";
 import Link from "next/link";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
-import { navLinks } from "@/constants/nav";
+import { navLinks } from "@/constants/index";
 import "hamburgers/dist/hamburgers.css";
 
 const Navbar: FC = () => {
