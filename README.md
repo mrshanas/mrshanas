@@ -1,4 +1,4 @@
-Hello there folks, I'm 
+Hello there folks 👋, I'm 
   - Enjoying working with technology and learning new things
   - Web Dev
   - Freelancer
