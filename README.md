@@ -1,10 +1,3 @@
-Hello there folks 👋, I'm 
-  - Enjoying working with technology and learning new things
-  - Web Dev
-  - Freelancer
-  - App Developer
-  
-  
 [Me, Myself and I](https://mrshanas.com)
 # Tech stack
 
