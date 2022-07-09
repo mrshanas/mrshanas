@@ -1,4 +1,4 @@
-Hi there All 👋
+# 👋
 
 [Me, Myself and I](https://mrshanas.com)
 # Tech stack
