@@ -1,7 +1,6 @@
-# 👋
+# <p align="center">👋</p>
 
-[Me, Myself and I](https://mrshanas.com)
-# Tech stack
+### Tech stack
 
 <p>
   <a href="https://djangoproject.com" title="Django and Django REST">
