@@ -2,6 +2,7 @@ import Link from "next/link";
 import { FC } from "react";
 import { useRouter } from "next/router";
 import ThemeToggler from "./ThemeToggler";
+import Button from "./Button";
 
 const Navbar: FC = () => {
   const { pathname } = useRouter();
@@ -27,9 +28,9 @@ const Navbar: FC = () => {
             </a>
           </Link>
           <Link href="/contact">
-            <a className="bg-purple dark:bg-lightGreen dark:text-black text-white font-extrabold py-2 px-3 rounded-md">
-              Contact
-            </a>
+            <div className="">
+              <Button text="Contact" />
+            </div>
           </Link>
           <ThemeToggler />
         </div>

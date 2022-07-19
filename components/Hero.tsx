@@ -4,6 +4,7 @@ import { FC } from "react";
 import TypeWriter from "typewriter-effect";
 
 import shanas from "../assets/images/shanas.jpg";
+import Button from "./Button";
 
 const Hero: FC = () => {
   return (
@@ -40,9 +41,9 @@ const Hero: FC = () => {
               reprehenderit eligendi, nihil aut fugit odio.
             </p>
             <Link href="/contact">
-              <button className="bg-purple dark:bg-lightGreen md:w-[40%] p-2 text-white dark:text-black font-bold rounded-lg">
-                Contact Me
-              </button>
+              <div className="md:w-[40%]">
+                <Button text="Contact Me" />
+              </div>
             </Link>
           </div>
         </div>
