@@ -1,17 +1,18 @@
+import { About, Hero, Navbar } from "@/components/index";
 import type { NextPage } from "next";
 import Head from "next/head";
-import { Hero, Navbar } from "../components";
 
 const Home: NextPage = () => {
   return (
     <>
-      <main>
+      <main className="dark:bg-darkBlue">
         <Head>
           <title>@mrshanas|Portfolio</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <Navbar />
         <Hero />
+        <About />
       </main>
     </>
   );
