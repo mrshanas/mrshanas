@@ -4,7 +4,8 @@
     "baseUrl": ".",
     "paths": {
       "@/components/*": ["./components/*"],
-      "@/constants/*": ["./constants/*"]
+      "@/constants/*": ["./constants/*"],
+      "@/assets/*": ["./assets/*"]
     },
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
