@@ -8,7 +8,7 @@ const Projects: NextPage = () => {
       <Head>
         <title>mrshanas | Projects</title>
       </Head>
-      <Navbar />
+      {/* <Navbar /> */}
     </>
   );
 };
