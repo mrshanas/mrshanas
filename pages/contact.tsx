@@ -8,7 +8,7 @@ const Contact: NextPage = () => {
       <Head>
         <title>Contact mrshanas</title>
       </Head>
-      <Navbar />
+      {/* <Navbar /> */}
     </>
   );
 };
