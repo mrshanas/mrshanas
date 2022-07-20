@@ -21,6 +21,9 @@ const Home: NextPage = () => {
         {/* <Navbar /> */}
 
         <Hero />
+        <h3 className="font-extrabold dark:text-white text-xl text-center md:text-left md:text-none md:text-2xl md:ml-14">
+          About Me
+        </h3>
         <About />
         <Projects />
         <section>
