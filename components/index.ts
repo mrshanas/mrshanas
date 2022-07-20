@@ -5,5 +5,19 @@ import About from "./About";
 import Projects from "./Projects";
 import Button from "./Button";
 import Experience from "./Experience";
+import SkillCard from "./SkillCard";
+import Footer from "./Footer";
+import ProjectCard from "./ProjectCard";
 
-export { About, Button, Experience, Hero, Navbar, Projects, ThemeToggler };
+export {
+  About,
+  Button,
+  Experience,
+  Footer,
+  Hero,
+  Navbar,
+  ProjectCard,
+  Projects,
+  SkillCard,
+  ThemeToggler,
+};

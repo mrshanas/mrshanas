@@ -14,7 +14,7 @@ type Props = {
 
 const ProjectCard: React.FC<Props> = (props: Props) => {
   return (
-    <div className="md:w-[80%] w-full mx-auto flex flex-col">
+    <div className="md:w-[80%] w-[95%] mx-auto flex flex-col">
       <div>
         <Image
           src={projectImg}
