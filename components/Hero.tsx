@@ -35,10 +35,10 @@ const Hero: FC = () => {
               Mr Shanas
             </h2>
             <p className="text-black font-semibold md:text-2xl dark:text-white">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-              dolore sequi, esse iusto tempore beatae repellendus minus!
-              Inventore mollitia hic doloribus consectetur dolor ipsum
-              reprehenderit eligendi, nihil aut fugit odio.
+              A passionate Full Stack Software Developer 🚀 having an experience
+              of building Web and Mobile applications with JavaScript / Reactjs
+              / Nodejs / Django / React Native and some other cool libraries and
+              frameworks.
             </p>
             <Link href="/contact">
               <div className="md:w-[40%]">

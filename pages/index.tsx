@@ -1,13 +1,7 @@
-import type { NextPage } from "next";
+import type { GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 
-import {
-  About,
-  Hero,
-  Experience,
-  Projects,
-  SkillCard,
-} from "@/components/index";
+import { About, Hero, Projects, SkillCard } from "@/components/index";
 import { skills } from "@/utils/skills";
 
 const Home: NextPage = () => {
@@ -32,6 +26,8 @@ const Home: NextPage = () => {
           </h3>
           {/* <div className="flex justify-around items-center w-[90%] mx-auto bg-slate-200 shadow-md z-40">
             <Experience />
+            Todo
+            // Services section
           </div> */}
           {/*@ts-ignore*/}
 
@@ -47,3 +43,9 @@ const Home: NextPage = () => {
 };
 
 export default Home;
+
+export const getStaticProps: GetStaticProps = async () => {
+  return {
+    props: {},
+  };
+};

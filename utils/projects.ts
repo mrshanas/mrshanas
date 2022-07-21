@@ -1,45 +1,28 @@
+import { StaticImageData } from "next/image";
+
+import smartshop from "@/assets/images/smartshop.png";
+import topics from "@/assets/images/topics.png";
 interface projects {
   name: string;
   tags: string[];
   desc: string;
   link: string;
+  img: StaticImageData;
 }
 
 export const projects: projects[] = [
   {
     name: "Smartshop",
-    tags: ["Python", "Django", "Postgres"],
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam amet, repudiandae, non in rerum nisi reprehenderit nam iure, fuga magni optio? Vitae libero, modi necessitatibus magni maiores itaque tempora quia tenetur sapiente? Sequi, neque omnis recusandae repudiandae earum enim?",
+    tags: ["Django", "Postgres", "Js"],
+    desc: "This is an application that allows small scale shop owners to manage their shops by recording transactions, generating receipts and register new items in a shop",
     link: "https://pos-smartshop.herokuapp.com",
+    img: smartshop,
   },
   {
-    name: "Smartshop",
-    tags: ["Python", "Django", "Postgres"],
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam amet, repudiandae, non in rerum nisi reprehenderit nam iure, fuga magni optio? Vitae libero, modi necessitatibus magni maiores itaque tempora quia tenetur sapiente? Sequi, neque omnis recusandae repudiandae earum enim?",
-    link: "https://pos-smartshop.herokuapp.com",
-  },
-  {
-    name: "Smartshop",
-    tags: ["Python", "Django", "Postgres"],
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam amet, repudiandae, non in rerum nisi reprehenderit nam iure, fuga magni optio? Vitae libero, modi necessitatibus magni maiores itaque tempora quia tenetur sapiente? Sequi, neque omnis recusandae repudiandae earum enim?",
-    link: "https://pos-smartshop.herokuapp.com",
-  },
-  {
-    name: "Smartshop",
-    tags: ["Python", "Django", "Postgres"],
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam amet, repudiandae, non in rerum nisi reprehenderit nam iure, fuga magni optio? Vitae libero, modi necessitatibus magni maiores itaque tempora quia tenetur sapiente? Sequi, neque omnis recusandae repudiandae earum enim?",
-    link: "https://pos-smartshop.herokuapp.com",
-  },
-  {
-    name: "Smartshop",
-    tags: ["Python", "Django", "Postgres"],
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam amet, repudiandae, non in rerum nisi reprehenderit nam iure, fuga magni optio? Vitae libero, modi necessitatibus magni maiores itaque tempora quia tenetur sapiente? Sequi, neque omnis recusandae repudiandae earum enim?",
-    link: "https://pos-smartshop.herokuapp.com",
-  },
-  {
-    name: "Smartshop",
-    tags: ["Python", "Django", "Postgres"],
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam amet, repudiandae, non in rerum nisi reprehenderit nam iure, fuga magni optio? Vitae libero, modi necessitatibus magni maiores itaque tempora quia tenetur sapiente? Sequi, neque omnis recusandae repudiandae earum enim?",
-    link: "https://pos-smartshop.herokuapp.com",
+    name: "Topics Tracker",
+    tags: ["Django", "Bootstrap", "Heroku"],
+    desc: "A to-do like app that enables you to register specific topics learnt in a lecture, I made this project when I was learning Django web framework",
+    link: "https://topics-tracker.herokuapp.com",
+    img: topics,
   },
 ];

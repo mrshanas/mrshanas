@@ -15,13 +15,14 @@ const Projects: NextPage = () => {
             Projects
           </h3>
           <div className="grid grid-cols-1 gap-y-6 md:grid-cols-2 my-3">
-            {projects.map(({ name, tags, desc, link }) => (
+            {projects.map(({ name, tags, desc, link, img }) => (
               <ProjectCard
                 name={name}
                 tags={tags}
                 desc={desc}
                 link={link}
                 key={link}
+                img={img}
               />
             ))}
           </div>

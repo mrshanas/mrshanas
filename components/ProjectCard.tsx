@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 import React from "react";
 
 import projectImg from "@/assets/images/project-img.jpg";
@@ -10,6 +10,7 @@ type Props = {
   tags: string[];
   desc: string;
   link: string;
+  img: StaticImageData;
 };
 
 const ProjectCard: React.FC<Props> = (props: Props) => {
@@ -17,7 +18,7 @@ const ProjectCard: React.FC<Props> = (props: Props) => {
     <div className="md:w-[80%] w-[95%] mx-auto flex flex-col">
       <div>
         <Image
-          src={projectImg}
+          src={props.img}
           alt="Project img"
           layout="responsive"
           className="rounded-t-lg"
