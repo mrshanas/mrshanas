@@ -31,7 +31,7 @@ const Home: NextPage = () => {
           </div> */}
           {/*@ts-ignore*/}
 
-          <div className="flex mx-auto my-5 w-[95%] md:justify-around space-x-10 md:w-full overflow-x-scroll">
+          <div className="flex mx-auto my-5 w-[95%] md:justify-around space-x-10 md:w-full overflow-x-scroll scrollbar-hide">
             {skills.map((skill) => (
               <SkillCard key={skill.key} img={skill.img} desc={skill.desc} />
             ))}
