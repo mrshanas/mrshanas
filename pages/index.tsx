@@ -9,8 +9,38 @@ const Home: NextPage = () => {
     <>
       <main>
         <Head>
-          <title>@mrshanas|Portfolio</title>
           <link rel="icon" href="/favicon.ico" />
+
+          {/* <!-- Primary Meta Tags --> */}
+          <title>mrshanas | Portfolio</title>
+          <meta name="title" content="mrshanas | Portfolio" />
+          <meta
+            name="description"
+            content="A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Django / React Native and some other cool libraries and frameworks."
+          />
+
+          {/* <!-- Open Graph / Facebook --> */}
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://mrshanas.com" />
+          <meta property="og:title" content="mrshanas | Portfolio" />
+          <meta
+            property="og:description"
+            content="A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Django / React Native and some other cool libraries and frameworks."
+          />
+          <meta property="og:image" content="../assets/images/shanas.jpg" />
+
+          {/* <!-- Twitter --> */}
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta property="twitter:url" content="https://twitter.com/mrshanas" />
+          <meta property="twitter:title" content="mrshanas | Portfolio" />
+          <meta
+            property="twitter:description"
+            content="A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Django / React Native and some other cool libraries and frameworks."
+          />
+          <meta
+            property="twitter:image"
+            content="../assets/images/shanas.jpg"
+          />
         </Head>
         {/* <Navbar /> */}
 
