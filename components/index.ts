@@ -9,6 +9,7 @@ import SkillCard from "./SkillCard";
 import Footer from "./Footer";
 import ProjectCard from "./ProjectCard";
 import ContactForm from "./ContactForm";
+import PageLoader from "./PageLoader";
 
 export {
   About,
@@ -18,6 +19,7 @@ export {
   Footer,
   Hero,
   Navbar,
+  PageLoader,
   ProjectCard,
   Projects,
   SkillCard,

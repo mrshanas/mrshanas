@@ -1,11 +1,30 @@
 import type { GetStaticProps, NextPage } from "next";
 import Head from "next/head";
+import { useEffect, useState } from "react";
 
-import { About, Hero, Projects, SkillCard } from "@/components/index";
+import {
+  About,
+  Hero,
+  PageLoader,
+  Projects,
+  SkillCard,
+} from "@/components/index";
 import { skills } from "@/utils/skills";
 
 const Home: NextPage = () => {
-  return (
+  const [page, setPage] = useState(false);
+
+  useEffect(() => {
+    setTimeout(() => setPage(true), 4000);
+
+    return () => {
+      clearInterval();
+    };
+  }, []);
+
+  return !page ? (
+    <PageLoader />
+  ) : (
     <>
       <main>
         <Head>

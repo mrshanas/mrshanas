@@ -1,7 +1,6 @@
 import Image, { StaticImageData } from "next/image";
 import React from "react";
 
-import projectImg from "@/assets/images/project-img.jpg";
 import Link from "next/link";
 import Button from "./Button";
 
@@ -15,7 +14,7 @@ type Props = {
 
 const ProjectCard: React.FC<Props> = (props: Props) => {
   return (
-    <div className="md:w-[80%] w-[95%] mx-auto flex flex-col">
+    <div className="md:w-[80%] w-[95%] mx-auto flex flex-col min-h-[20rem] items-stretch relative">
       <div>
         <Image
           src={props.img}
@@ -24,7 +23,7 @@ const ProjectCard: React.FC<Props> = (props: Props) => {
           className="rounded-t-lg"
         />
       </div>
-      <div className="w-full pl-3 rounded-b-lg bg-white dark:bg-lightBlack pt-3 space-y-2 flex flex-col justify-center md:justify-start">
+      <div className="w-full h-full pl-3 rounded-b-lg bg-white dark:bg-lightBlack pt-3 space-y-2 flex flex-col justify-center md:justify-start">
         <h3 className="text-black dark:text-white font-bold text-2xl">
           {props.name}
         </h3>
@@ -41,11 +40,12 @@ const ProjectCard: React.FC<Props> = (props: Props) => {
         <p className="bg-white dark:bg-lightBlack dark:text-slate-500 font-bold">
           {props.desc}
         </p>
-        <Link href={props.link}>
-          <div className="w-[50%] mx-auto md:mx-0 flex justify-center md:justify-start my-3 pb-3">
+
+        <a href={props.link}>
+          <div className="w-[50%] mx-auto md:mx-0 flex justify-center md:justify-start my-3 pb-3 ">
             <Button text="View Project" />
           </div>
-        </Link>
+        </a>
       </div>
     </div>
   );
