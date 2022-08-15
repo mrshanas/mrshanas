@@ -12,20 +12,17 @@ import {
 import { skills } from "@/utils/skills";
 
 const Home: NextPage = () => {
-  const [page, setPage] = useState(false);
+  const [page, setPage] = useState(true);
 
   useEffect(() => {
-    setTimeout(() => setPage(true), 4000);
+    setTimeout(() => setPage(false), 4000);
 
     return () => {
       clearInterval();
     };
   }, []);
 
-  return !page ? (
-    <PageLoader />
-  ) : (
-    <>
+  return(
       <main>
         <Head>
           <link rel="icon" href="/favicon.ico" />
@@ -63,6 +60,9 @@ const Home: NextPage = () => {
         </Head>
         {/* <Navbar /> */}
 
+        {/* Page animation */}
+
+        {page && <PageLoader />}
         <Hero />
         <h3 className="font-extrabold dark:text-white text-xl text-center md:text-left md:text-none md:text-2xl md:ml-14">
           About Me
@@ -87,7 +87,6 @@ const Home: NextPage = () => {
           </div>
         </section>
       </main>
-    </>
   );
 };
 
