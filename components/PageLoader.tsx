@@ -1,7 +1,7 @@
 import { FC } from "react";
 import Lottie from "lottie-react";
 
-import DevAnimation from "@/assets/animations/developer.json";
+import DevAnimation from "@/assets/animations/loading.json";
 
 type Props = {};
 
