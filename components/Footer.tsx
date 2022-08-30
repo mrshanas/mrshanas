@@ -9,30 +9,40 @@ const Footer: FC = () => {
   return (
     <div className="flex flex-col my-10 space-y-6">
       <div className="flex justify-around md:w-[50%] w-[95%] mx-auto">
-        <a href="mailto:nassibshaban345@gmail.com" className="md:w-8 md:h-8">
+        <a
+          href="mailto:nassibshaban345@gmail.com"
+          className="md:w-8 md:h-8 scale-150"
+        >
           <SiGmail />
         </a>
-        <a href="https://github.com/mrshanas">
+        <a href="https://github.com/mrshanas" className="scale-150">
           <AiOutlineGithub />
         </a>
-        <a href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/">
+        <a
+          href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/"
+          className="scale-150"
+        >
           <FaLinkedin />
         </a>
-        <a href="https://t.me/mrshanas">
+        <a href="https://t.me/mrshanas" className="scale-150">
           <BsTelegram />
         </a>
       </div>
-      <div className="flex justify-evenly mx-auto w-[95%] md:w-[50%] md:justify-around">
-        <Link href="/projects">
-          <a className="dark:text-white text-black font-bold text-xl md:text-[1rem]">
-            Projects
-          </a>
-        </Link>{" "}
-        <Link href="/contact">
-          <a className="dark:text-white text-black font-bold text-xl md:text-[1rem]">
-            Contact
-          </a>
-        </Link>
+      <div className="flex flex-col md:flex-row justify-evenly mx-auto w-[98%] md:w-[90%] md:justify-between space-y-4 md:space-y-0">
+        <a
+          href="https://buymeacoffee.com"
+          className="dark:text-white text-center w-3/4 md:w-1/4 mx-auto text-black font-bold text-xl md:text-[1rem] hover:bg-purple hover:text-white hover:dark:bg-lightGreen hover:dark:text-black dark:border-lightGreen border-purple border rounded-md p-2"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Buy Me a coffee ☕
+        </a>
+        <a
+          href="tel:+255788277549"
+          className="dark:text-white text-center w-3/4 md:w-1/4 mx-auto text-black font-bold text-xl md:text-[1rem] hover:bg-purple hover:text-white hover:dark:bg-lightGreen hover:dark:text-black dark:border-lightGreen border-purple  border rounded-md p-2"
+        >
+          Lets have a call! 🤙🏻
+        </a>
       </div>
       <div className="md:w-[50%] w-[95%] mx-auto">
         <p className="text-center dark:text-white text-black font-semibold">

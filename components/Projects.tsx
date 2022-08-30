@@ -12,7 +12,9 @@ const Projects: FC = () => {
   return (
     <section>
       <div className="flex justify-center items-center w-[90%] my-6 mx-auto pt-3 md:justify-start">
-        <h2 className="dark:text-white text-2xl font-bold">Projects</h2>
+        <h2 className="dark:text-white text-2xl font-bold">
+          Some Things I&apos;ve built
+        </h2>
       </div>
       <div className="grid md:grid-cols-2 space-x-1 mx-auto w-[90%] justify-center md:justify-start space-y-8 md:space-y-0">
         {topProjects.map(({ link, desc, img, name, tags }) => (
