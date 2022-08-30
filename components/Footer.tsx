@@ -1,30 +1,52 @@
 import { FC } from "react";
 import { AiOutlineGithub } from "react-icons/ai";
 import { SiGmail } from "react-icons/si";
-import { FaLinkedin } from "react-icons/fa";
+import { FaLinkedin, FaTwitter } from "react-icons/fa";
 import { BsTelegram } from "react-icons/bs";
 import Link from "next/link";
 
 const Footer: FC = () => {
   return (
     <div className="flex flex-col my-10 space-y-6">
-      <div className="flex justify-around md:w-[50%] w-[95%] mx-auto">
+      <div className="flex justify-around md:w-[50%] w-[95%] mx-auto mb-6 md:mb-0">
         <a
           href="mailto:nassibshaban345@gmail.com"
           className="md:w-8 md:h-8 scale-150"
+          target="_blank"
+          rel="noreferrer"
         >
           <SiGmail />
         </a>
-        <a href="https://github.com/mrshanas" className="scale-150">
+        <a
+          href="https://github.com/mrshanas"
+          className="scale-150"
+          target="_blank"
+          rel="noreferrer"
+        >
           <AiOutlineGithub />
+        </a>
+        <a
+          href="https://twitter.com/mrshanas"
+          target="_blank"
+          rel="noreferrer"
+          className="scale-150"
+        >
+          <FaTwitter />
         </a>
         <a
           href="https://www.linkedin.com/in/shabani-nassibu-9335b2219/"
           className="scale-150"
+          target="_blank"
+          rel="noreferrer"
         >
           <FaLinkedin />
         </a>
-        <a href="https://t.me/mrshanas" className="scale-150">
+        <a
+          href="https://t.me/mrshanas"
+          target="_blank"
+          rel="noreferrer"
+          className="scale-150"
+        >
           <BsTelegram />
         </a>
       </div>
