@@ -39,6 +39,11 @@ export const skills: skills[] = [
     desc: "React",
     img: react,
   },
+  // {
+  //   key: 18,
+  //   desc: "VueJs",
+  //   img: vue,
+  // },
   {
     key: 5,
     desc: "Redux",
