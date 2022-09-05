@@ -13,7 +13,7 @@ export const experiences: exp[] = [
     companyLink: "https://singo.africa",
     startDate: "July 2022",
     endDate: "Present",
-    title: "Intern Software Developer",
+    title: "Intern | Software Developer",
     exp: [
       "Write modern, quality, maintainable code for opensource projects and internal projects",
       "Worked with different languages including Python, Javascript, CSS and frameworks like Django, AngularJs, NuxtJs, Django Rest Framework",
