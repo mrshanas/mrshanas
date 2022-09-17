@@ -1,4 +1,4 @@
-Iimport { StaticImageData } from "next/image";
+import { StaticImageData } from "next/image";
 
 import smartshop from "@/assets/images/smartshop.png";
 import topics from "@/assets/images/topics.png";
