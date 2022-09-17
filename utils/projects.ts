@@ -1,4 +1,4 @@
-import { StaticImageData } from "next/image";
+Iimport { StaticImageData } from "next/image";
 
 import smartshop from "@/assets/images/smartshop.png";
 import topics from "@/assets/images/topics.png";
@@ -24,7 +24,7 @@ export const projects: projects[] = [
   },
   {
     name: "Nasmart",
-    tags: ["VueJs", "Nuxt", "Django"],
+    tags: ["React", "NextJS", "Django"],
     desc: "E-commerce web store that sells electronic devices, laptops and computers, gaming consoles that enables a user to add items cart and request a delivery or pickup made with NextJs on the frontend and Django on the backend",
     link: "https://github.com/mrshanas/nasmart",
     img: nasmart,
