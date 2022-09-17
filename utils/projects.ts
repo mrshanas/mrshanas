@@ -24,8 +24,8 @@ export const projects: projects[] = [
   },
   {
     name: "Nasmart",
-    tags: ["VueJs", "Nuxt", "API"],
-    desc: "E-commerce web store that sells electronic devices, laptops and computers, gaming consoles that enables a user to add items cart and request a delivery or pickup",
+    tags: ["VueJs", "Nuxt", "Django"],
+    desc: "E-commerce web store that sells electronic devices, laptops and computers, gaming consoles that enables a user to add items cart and request a delivery or pickup made with NextJs on the frontend and Django on the backend",
     link: "https://github.com/mrshanas/nasmart",
     img: nasmart,
   },
