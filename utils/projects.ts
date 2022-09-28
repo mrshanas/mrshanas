@@ -6,6 +6,8 @@ import consultant from "@/assets/images/screenshot.png";
 import team from "@/assets/images/my-team.png";
 import page404 from "@/assets/images/404-dev.png";
 import nasmart from "@/assets/images/nasmart.png";
+import convle from "@/assets/images/screenshot-convle.png";
+
 interface projects {
   name: string;
   tags: string[];
@@ -28,6 +30,13 @@ export const projects: projects[] = [
     desc: "E-commerce web store that sells electronic devices, laptops and computers, gaming consoles that enables a user to add items cart and request a delivery or pickup made with NextJs on the frontend and Django on the backend",
     link: "https://github.com/mrshanas/nasmart",
     img: nasmart,
+  },
+  {
+    name: "ConVLE",
+    tags: ["Vue", "Django", "Websockets"],
+    desc: "Realtime chatting web app made with VueJs and Vite on the frontend and Django channels on the backend",
+    link: "https://github.com/mrshanas/convle",
+    img: convle,
   },
   {
     name: "Interior Consultant",
