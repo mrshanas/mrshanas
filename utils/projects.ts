@@ -34,7 +34,7 @@ export const projects: projects[] = [
   {
     name: "ConVLE",
     tags: ["Vue", "Django", "Websockets"],
-    desc: "Realtime chatting web app made with VueJs and Vite on the frontend and Django channels on the backend",
+    desc: "Realtime chatting web app made with VueJs and Vite on the frontend and Django rest and Django channels on the backend",
     link: "https://github.com/mrshanas/convle",
     img: convle,
   },
