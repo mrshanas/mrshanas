@@ -21,7 +21,7 @@ export const projects: projects[] = [
     name: "Smartshop",
     tags: ["Django", "Postgres", "Js"],
     desc: "This is an application that allows small scale shop owners to manage their shops by recording transactions, generating receipts and register new items in a shop",
-    link: "https://smartshop.up.railway.app",
+    link: "https://smartshop.mrshanas.com",
     img: smartshop,
   },
   {
