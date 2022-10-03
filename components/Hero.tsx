@@ -35,7 +35,7 @@ const Hero: FC = () => {
               Mr Shanas
             </h2>
             <p className="text-black font-semibold md:text-2xl dark:text-white">
-              A passionate Full Stack Software Developer 🚀 having an experience
+              A (Frontend/Backend but not both) Software Developer 🚀 having an experience
               of building Web and Mobile applications with JavaScript / Reactjs / Vue.JS 
               / Nodejs / Django / React Native and some other cool libraries and
               frameworks.
