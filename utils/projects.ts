@@ -24,6 +24,13 @@ export const projects: projects[] = [
     link: "https://smartshop.mrshanas.com",
     img: smartshop,
   },
+ {
+    name: "ConVLE",
+    tags: ["Vue", "Django", "Websockets"],
+    desc: "Realtime chatting web app made with VueJs and Vite on the frontend and Django rest and Django channels on the backend",
+    link: "https://convle.mrshanas.com",
+    img: convle,
+  },
   {
     name: "Nasmart",
     tags: ["React", "NextJS", "Django"],
@@ -31,13 +38,8 @@ export const projects: projects[] = [
     link: "https://github.com/mrshanas/nasmart",
     img: nasmart,
   },
-  {
-    name: "ConVLE",
-    tags: ["Vue", "Django", "Websockets"],
-    desc: "Realtime chatting web app made with VueJs and Vite on the frontend and Django rest and Django channels on the backend",
-    link: "https://github.com/mrshanas/convle",
-    img: convle,
-  },
+  
+/*
   {
     name: "Interior Consultant",
     tags: ["Sass", "Responsive"],
@@ -65,5 +67,5 @@ export const projects: projects[] = [
     desc: "A to-do like app that enables you to register specific topics learnt in a lecture, I made this project when I was learning Django web framework",
     link: "https://github.com/mrshanas/topics-tracker",
     img: topics,
-  },
+  },*/
 ];
