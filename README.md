@@ -1,5 +1,6 @@
-<!--### Tech Stack
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false)
+
+
+### Tech Stack I use
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-<br/>-->
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile" alt="mrshanas" /></p>
 
@@ -45,6 +46,15 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
 </p>
+<details>
+  <summary>My Streak</summary>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false"/>
+  </p>
+</details>
+
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false)-->
+
 
 <!--<p align="center">
   <a href="https://www.buymeacoffee.com/mrshanas">
