@@ -12,6 +12,7 @@ interface projects {
   name: string;
   tags: string[];
   desc: string;
+  githubLink?: string;
   link: string;
   img: StaticImageData;
 }
@@ -24,10 +25,11 @@ export const projects: projects[] = [
     link: "https://smartshop.mrshanas.com",
     img: smartshop,
   },
- {
+  {
     name: "ConVLE",
     tags: ["Vue", "Django", "Websockets"],
     desc: "Realtime chatting web app made with VueJs and Vite on the frontend and Django rest and Django channels on the backend",
+    githubLink: "https://github.com/mrshanas/convle",
     link: "https://convle.mrshanas.com",
     img: convle,
   },
@@ -38,8 +40,8 @@ export const projects: projects[] = [
     link: "https://github.com/mrshanas/nasmart",
     img: nasmart,
   },
-  
-/*
+
+  /*
   {
     name: "Interior Consultant",
     tags: ["Sass", "Responsive"],

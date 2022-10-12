@@ -16,7 +16,7 @@ const Projects: FC = () => {
           Some Things I&apos;ve built
         </h2>
       </div>
-      <div className="grid md:grid-cols-2 space-x-1 mx-auto w-[90%] justify-center md:justify-start space-y-8 md:space-y-0">
+      <div className="grid md:grid-cols-2 gap-x-6 mx-auto w-[90%] justify-center md:justify-start space-y-8 md:space-y-0">
         {topProjects.map(({ link, desc, img, name, tags }) => (
           <ProjectCard
             key={name}
