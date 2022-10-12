@@ -15,7 +15,7 @@ type Props = {
 const ProjectCard: React.FC<Props> = (props: Props) => {
   return (
     <div className="md:w-[80%] w-[95%] mx-auto flex flex-col min-h-[20rem] items-stretch relative ">
-      <div>
+      <div className="">
         <Image
           src={props.img}
           alt="Project img"

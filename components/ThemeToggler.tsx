@@ -17,10 +17,13 @@ const ThemeToggler: FC = () => {
       {theme === "dark" ? (
         <SunIcon
           onClick={toggleTheme}
-          className="cursor-pointer text-white h-8"
+          className="cursor-pointer tranisition-all text-white h-8"
         />
       ) : (
-        <MoonIcon onClick={toggleTheme} className="cursor-pointer h-8" />
+        <MoonIcon
+          onClick={toggleTheme}
+          className="cursor-pointer transition-all h-8"
+        />
       )}
     </>
   );
