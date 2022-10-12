@@ -19,7 +19,7 @@ const ExperienceCard: FC<Props> = ({
   exp,
 }: Props) => {
   return (
-    <div className="flex flex-col space-y-3 flex-1 border-purple dark:border-lightGreen border w-full rounded-md max-h-[16rem] mx-auto p-2">
+    <div className="flex flex-col space-y-3 flex-1 border-purple dark:border-lightGreen border w-full rounded-md min-h-[16rem] mx-auto p-2">
       <div className="text-center">
         <h3 className="dark:text-lightGreen text-purple font-extrabold hover:underline">
           <a href={companyLink} target="_blank" rel="noreferrer">

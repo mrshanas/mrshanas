@@ -9,7 +9,7 @@ const Navbar: FC = () => {
   const { pathname } = useRouter();
 
   return (
-    <nav className="sticky top-0 bg-white shadow-md z-50 p-3 w-full dark:bg-darkBlue dark:shadow-lg">
+    <nav className="sticky backdrop-blur-sm bg-transparent top-0 bg-white shadow-md z-50 p-3 w-full dark:bg-darkBlue dark:shadow-lg">
       <div className="flex md:mx-auto items-center space-x-2 md:justify-between w-full md:w-[80%]">
         <div className="basis-1/4 md:basis-2/3">
           <Link href="/">

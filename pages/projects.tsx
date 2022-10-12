@@ -14,7 +14,7 @@ const Projects: NextPage = () => {
           <h3 className="font-extrabold dark:text-white text-center md:text-left md:text-none text-2xl md:ml-14 my-8">
             Projects
           </h3>
-          <div className="grid grid-cols-1 gap-y-6 md:grid-cols-2 my-3">
+          <div className="grid grid-cols-1 w-[97%] md:w-[95%] mx-auto gap-y-6 gap-x-6 md:grid-cols-2 my-3">
             {projects.map(({ name, tags, desc, link, img }) => (
               <ProjectCard
                 name={name}
