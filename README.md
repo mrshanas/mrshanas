@@ -1,5 +1,6 @@
-### Tech Stack
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false)-->
+
+
+### Tech Stack I use
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,6 +46,15 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
 </p>
+<details>
+  <summary>My Streak</summary>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false"/>
+  </p>
+</details>
+
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false)-->
+
 
 <!--<p align="center">
   <a href="https://www.buymeacoffee.com/mrshanas">
