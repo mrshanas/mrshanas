@@ -1,6 +1,9 @@
+> 👋 Hello I go by the var ***Shanas*** <br/>
+```ts
+console.log("I love and enjoy building stuffs with code")
+```
 
-
-### Tech Stack I use
+### Tech stacks I love
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
 
-## Am Available !!!
+## You can reach me !!!
 
 <p align="center">
   <a href="https://upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank">
