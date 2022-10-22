@@ -2,7 +2,7 @@
  
 > 👋 Hello I go by the var ***Shanas*** <br/>
 ```ts
-console.log("I love and enjoy building stuffs with code")
+console.log("I love and enjoy building stuffs with code");
 ```
 <br/>
 
