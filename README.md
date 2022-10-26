@@ -1,7 +1,9 @@
-### index.js
+
  
-> 👋 Hello I go by the var ***Shanas*** <br/>
-```ts
+
+```ts:index.ts
+const name = "Shanas";
+
 console.log("I love and enjoy building stuffs with code");
 ```
 <br/>
@@ -21,7 +23,7 @@ console.log("I love and enjoy building stuffs with code");
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile" alt="mrshanas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,javascript,procfile,tex" alt="mrshanas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
 
