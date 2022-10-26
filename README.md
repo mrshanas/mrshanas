@@ -1,6 +1,6 @@
 
  
-
+### index.ts
 ```ts:index.ts
 const name = "Shanas";
 
@@ -13,7 +13,9 @@ console.log("I love and enjoy building stuffs with code");
 {
     "frontend": ["React", "NextJs", "Vue", "Nuxt","Tailwind", "Sass"],
     "backend": ["Django", "NodeJs"],
-    "databases": ["Postgres", "MongoDB"],
+    "orm":["Prisma","Mongoose"],
+    "databases": ["Postgres", "MongoDB","MySQL"],
+    "message_brokers":["Redis","RabbitMQ"],
     "mobile": ["React Native", "Expo"],
     "api": ["REST", "GraphQL"],
     "deploying":["Digital Ocean", "Vercel", "GH Pages"],
