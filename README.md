@@ -1,6 +1,6 @@
 
  
-### index.ts
+### `index.ts`
 ```ts:index.ts
 const name = "Shanas";
 
@@ -8,7 +8,7 @@ console.log("I love and enjoy building stuffs with code");
 ```
 <br/>
 
-### tech_stacks_I_love.json
+### `tech_stacks_I_love.json`
 ```json
 {
     "frontend": ["React", "NextJs", "Vue", "Nuxt","Tailwind", "Sass"],
