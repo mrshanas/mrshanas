@@ -8,7 +8,7 @@ console.log("I love and enjoy building stuffs with code");
 ```
 <br/>
 
-### Tech stacks I love
+### tech_stacks_I_love.json
 ```json
 {
     "frontend": ["React", "NextJs", "Vue", "Nuxt","Tailwind", "Sass"],
