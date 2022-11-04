@@ -1,7 +1,9 @@
 ### `index.ts`
 
 ```ts
-const name = "Shanas";
+let name: string;
+
+name = "Shanas";
 
 console.log("I love and enjoy building stuffs with code");
 ```
