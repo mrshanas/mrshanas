@@ -8,7 +8,7 @@ console.log("I love and enjoy building stuffs with code");
 
 <br/>
 
-### `tech_stacks_I_love.json`
+### `tech_stacks_i_love.json`
 
 ```json
 {
