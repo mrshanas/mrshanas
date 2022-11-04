@@ -30,8 +30,6 @@ console.log("I love and enjoy building stuffs with code");
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
 
-[![@mrshanas's Holopin board](https://holopin.me/mrshanas)](https://holopin.io/@mrshanas)
-
 ## You can reach me !!!
 
 <p align="center">
