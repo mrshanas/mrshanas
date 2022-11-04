@@ -1,6 +1,6 @@
 ### `index.ts`
 
-```ts:index.ts
+```ts
 const name = "Shanas";
 
 console.log("I love and enjoy building stuffs with code");
