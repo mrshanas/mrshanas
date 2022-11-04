@@ -1,25 +1,26 @@
-
- 
 ### `index.ts`
+
 ```ts:index.ts
 const name = "Shanas";
 
 console.log("I love and enjoy building stuffs with code");
 ```
+
 <br/>
 
 ### `tech_stacks_I_love.json`
+
 ```json
 {
-    "frontend": ["React", "NextJs", "Vue", "Nuxt","Tailwind", "Sass"],
-    "backend": ["Django", "NodeJs"],
-    "orm":["Prisma","Mongoose"],
-    "databases": ["Postgres", "MongoDB","MySQL"],
-    "message_brokers":["Redis","RabbitMQ"],
-    "mobile": ["React Native", "Expo"],
-    "api": ["REST", "GraphQL"],
-    "deploying":["Digital Ocean", "Vercel", "GH Pages"],
-    "more": ["Docker", "Firebase", "Redux", "VS Code", "Git"]
+  "frontend": ["React", "NextJs", "Vue", "Nuxt", "Tailwind", "Sass"],
+  "backend": ["Django", "NodeJs"],
+  "orm": ["Prisma", "Mongoose"],
+  "databases": ["Postgres", "MongoDB", "MySQL"],
+  "message_brokers": ["Redis", "RabbitMQ"],
+  "mobile": ["React Native", "Expo"],
+  "api": ["REST", "GraphQL"],
+  "deploying": ["Digital Ocean", "Vercel", "GH Pages"],
+  "more": ["Docker", "Firebase", "Redux", "VS Code", "Git"]
 }
 ```
 
@@ -51,14 +52,17 @@ console.log("I love and enjoy building stuffs with code");
   </a>
 </p>
 <details>
-  <summary><i>My Streak</i></summary>
-  <p align="center">
+  <summary><i>My Streak & Badges</i></summary>
+   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false"/>
   </p>
+  <a href="https://holopin.io/@mrshanas" target="_blank">
+    <img src="https://holopin.me/mrshanas" alt="@mrshanas's Holopin board"/>
+  </a>
+
 </details>
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false)-->
-
 
 <!--<p align="center">
   <a href="https://www.buymeacoffee.com/mrshanas">
