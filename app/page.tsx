@@ -1,10 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
+import { FaTelegramPlane } from "react-icons/fa";
+import { HiOutlineMail } from "react-icons/hi";
 
 import shanas from "@assets/images/shanas.jpg";
 import { currentlyWorking } from "@lib/current";
-import { projects } from "@lib/data";
-import { HashTag, ProjectCard } from "@components/index";
+import { projects, skills } from "@lib/data";
+import { ProjectCard, SectionHeader, SkillCard } from "@components/index";
 
 export default function Home() {
   return (
@@ -15,12 +17,17 @@ export default function Home() {
           <div className="flex flex-col justify-center gap-y-6">
             <h1 className="text-white text-xl md:text-2xl">
               Shanas is a{" "}
-              <span className="text-primary">Backend Developer</span> and{" "}
-              <span className="text-primary">Frontend Developer</span>
+              <span className="text-primary hover:font-semibold cursor-pointer">
+                Backend Developer
+              </span>{" "}
+              and{" "}
+              <span className="text-primary hover:font-semibold cursor-pointer">
+                Frontend Developer
+              </span>
             </h1>
             <small className="">
-              He builds responsive websites, scalable apps with latest and
-              modern technologies
+              He also builds cross-platform mobile apps, responsive websites,
+              scalable software solutions with latest and modern technologies
             </small>
 
             <button className="text-appGray w-full hover:outline-2 hover:scale-105 transition ease-out md:w-2/5 outline outline-1 outline-primary p-1">
@@ -64,24 +71,59 @@ export default function Home() {
       <section className="w-full my-8">
         <div className="w-[90%] md:w-4/5 mx-auto">
           {/* Heading  */}
-          <div className="flex items-center justify-between">
-            <div className="flex gap-x-2 flex-grow items-center">
-              <h2 className="">
-                <HashTag />
-                projects
-              </h2>
-              <div className="border-t border-primary w-3/5 hidden md:flex" />
-            </div>
-            <p className="">
-              <Link href="/works">View all &rarr;</Link>
-            </p>
-          </div>
-
+          <SectionHeader title="projects" />
           {/* Projects  */}
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
             {projects.map((proj) => (
               <ProjectCard key={proj.alt} {...proj} />
             ))}
+          </div>
+        </div>
+        {/* Skills section  */}
+        <div className="w-[90%] md:w-4/5 mx-auto my-12">
+          <SectionHeader title="skills" hideViewLink />
+          <div className="flex">
+            <div className="hidden md:block flex-grow w-full" />
+
+            <div className="grid flex-grow md:grid-cols-3 gap-x-6 gap-y-8 my-6">
+              {skills.map((skill) => (
+                <SkillCard key={skill.title} {...skill} />
+              ))}
+            </div>
+          </div>
+        </div>
+
+        {/* Contacts section  */}
+        <div className="w-[90%] md:w-4/5 mx-auto my-2 mb-10">
+          <SectionHeader title="contacts" hideViewLink />
+          <div className="flex flex-col md:flex-row gap-y-4 justify-between my-6">
+            <h4 className="md:w-1/2">
+              I&apos;m interested in fulltime or freelance opportunities,
+              However If you have other request or question, don&apos;t hesitate
+              to contact me
+            </h4>
+            <div className="flex flex-col outline p-2 outline-1 outline-appGray">
+              <h5 className="text-white">Message me here</h5>
+              <a
+                href="https://t.me/mrshanas"
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-x-1"
+              >
+                <FaTelegramPlane />
+                @mrshanas
+              </a>
+
+              <a
+                href="mailto:nassibshaban345@gmail.com"
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center gap-x-1"
+              >
+                <HiOutlineMail />
+                nassibshaban345@gmail.com
+              </a>
+            </div>
           </div>
         </div>
       </section>

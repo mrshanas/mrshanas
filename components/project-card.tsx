@@ -26,7 +26,7 @@ const ProjectCard = ({
         <Image src={img} alt={alt} className="max-w-full" />
       </div>
       {/* Tech used  */}
-      <div className="flex items-center justify-start gap-x-4 border-t border-b p-1">
+      <div className="flex items-center justify-start gap-x-4 border-t border-b p-1 overflow-auto">
         {techUsed.map((lang) => (
           <small key={lang}>{lang}</small>
         ))}
@@ -44,7 +44,7 @@ const ProjectCard = ({
               href={liveUrl}
               target="_blank"
               rel="noreferrer"
-              className="flex items-center gap-x-2 px-2 py-1 ml-3 outline outline-1 outline-primary"
+              className="flex items-center gap-x-2 px-2 py-1 ml-3 outline outline-1 outline-primary hover:outline-2 transition ease-out"
             >
               <AiOutlineLink /> Live
             </a>
@@ -54,7 +54,7 @@ const ProjectCard = ({
               href={githubUrl}
               target="_blank"
               rel="noreferrer"
-              className="flex items-center gap-x-2 px-2 py-1 ml-3 outline outline-1 outline-appGray"
+              className="flex items-center gap-x-2 px-2 py-1 ml-3 outline outline-1 outline-appGray hover:outline-white transition ease-in"
             >
               <AiOutlineGithub /> Github
             </a>

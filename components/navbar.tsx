@@ -27,7 +27,7 @@ const Navbar: FC = (props: Props) => {
 
   return (
     <>
-      <nav className="w-full sticky md:relative top-0 bg-background md:bg-none z-10 text-appGray">
+      <nav className="w-full relative bg-background md:bg-none z-10 text-appGray">
         <div className="flex items-center justify-between w-[90%] md:w-4/5 mx-auto">
           <div className="relative h-8 w-8">
             <Link href="/">
@@ -102,7 +102,7 @@ export default Navbar;
 const MobileNav: FC = () => {
   const pathname = usePathname();
   return (
-    <div className="w-full h-screen flex flex-col absolute z-20 top-8 bg-background inset-0">
+    <div className="w-full flex flex-col absolute z-20 top-8 bg-background inset-0">
       <ul className="md:hidden flex mt-3 flex-col flex-grow text-appGray gap-y-6 ml-2">
         <li className="text-xl">
           <Link
