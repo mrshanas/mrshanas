@@ -2,10 +2,10 @@ import Image from "next/image";
 import { AiOutlineGithub, AiOutlineLink } from "react-icons/ai";
 
 type Props = {
-  alt: string;
+  alt?: string;
   desc: string;
   githubUrl?: string;
-  img: any;
+  img?: any;
   techUsed: string[];
   liveUrl?: string;
   title: string;
@@ -23,7 +23,7 @@ const ProjectCard = ({
   return (
     <div className="w-full cursor-pointer outline outline-1 hover:scale-[1.01] transition ease-out outline-appGray">
       <div>
-        <Image src={img} alt={alt} className="max-w-full" />
+        {alt && img && <Image src={img} alt={alt} className="max-w-full" />}
       </div>
       {/* Tech used  */}
       <div className="flex items-center justify-start gap-x-4 border-t border-b p-1 overflow-auto">

@@ -70,3 +70,24 @@ export const skills = [
     skills: ["HTML", "SCSS", "REST"],
   },
 ];
+
+export const smallProjects = [
+  {
+    desc: "Query the lyrics of your favorite artist",
+    title: "Lyrics Bot",
+    githubUrl: "https://github.com/mrshanas/lyrics-bot",
+    techUsed: ["NodeJs", "JavaScript", "API"],
+  },
+  {
+    desc: "Almost the social media you love",
+    title: "Insta Clone",
+    githubUrl: "https://github.com/mrshanas/insta-clone",
+    techUsed: ["NodeJs", "JavaScript", "Express", "React"],
+  },
+  {
+    desc: "Devchallenges solution for interior design consultants",
+    title: "Interior consultant",
+    githubUrl: "https://github.com/mrshanas/devchallenges-consultant",
+    techUsed: ["Sass", "Responsiveness", "HTML"],
+  },
+];

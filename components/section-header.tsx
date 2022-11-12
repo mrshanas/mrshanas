@@ -16,7 +16,7 @@ const SectionHeader = ({
   return (
     <div className="flex items-center justify-between">
       <div className="flex gap-x-2 flex-grow items-center">
-        <h2 className="">
+        <h2 className="text-white">
           <HashTag />
           {title}
         </h2>
