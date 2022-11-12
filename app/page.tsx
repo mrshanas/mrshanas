@@ -4,11 +4,23 @@ import { FaTelegramPlane } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 
 import shanas from "@assets/images/shanas.jpg";
+import pic from "@assets/images/pic.png";
 import { currentlyWorking } from "@lib/current";
 import { projects, skills } from "@lib/data";
 import { ProjectCard, SectionHeader, SkillCard } from "@components/index";
 
-export default function Home() {
+async function getMovieQuote() {
+  const res = await fetch(
+    "https://movie-quote-api.herokuapp.com/v1/quote/?censored",
+    { cache: "no-store" }
+  );
+
+  return await res.json();
+}
+
+export default async function Home() {
+  const { quote, show } = await getMovieQuote();
+
   return (
     <main className="my-6">
       {/* Hero Section  */}
@@ -17,11 +29,11 @@ export default function Home() {
           <div className="flex flex-col justify-center gap-y-6">
             <h1 className="text-white text-xl md:text-2xl">
               Shanas is a{" "}
-              <span className="text-primary hover:font-semibold cursor-pointer">
+              <span className="text-primary hover:font-semibold transition ease-in-out cursor-pointer">
                 Backend Developer
               </span>{" "}
               and{" "}
-              <span className="text-primary hover:font-semibold cursor-pointer">
+              <span className="text-primary hover:font-semibold transition ease-in-out cursor-pointer">
                 Frontend Developer
               </span>
             </h1>
@@ -59,10 +71,10 @@ export default function Home() {
       <section className="w-full my-6">
         <div className="w-[90%] md:w-3/5 flex flex-col mx-auto">
           <q className="outline-1 outline text-center outline-appGray p-2">
-            With great power comes great electricty bill
+            {quote}
           </q>
           <small className=" w-1/5 text-center self-end border-b border-l border-r p-1 border-appGray">
-            Dr Who
+            {show}
           </small>
         </div>
       </section>
@@ -83,7 +95,21 @@ export default function Home() {
         <div className="w-[90%] md:w-4/5 mx-auto my-12">
           <SectionHeader title="skills" hideViewLink />
           <div className="flex">
-            <div className="hidden md:block flex-grow w-full" />
+            <div className="hidden md:flex flex-col flex-wrap flex-grow w-full">
+              <div className="flex justify-start">
+                <Image src={pic} alt="pic logo" className="" />
+              </div>
+              <div className="flex justify-end">
+                <Image
+                  src={pic}
+                  alt="pic logo 2"
+                  className="justify-end items-end"
+                />
+              </div>
+              <div className="flex justify-start">
+                <Image src={pic} alt="pic logo 3" className="" />
+              </div>
+            </div>
 
             <div className="grid flex-grow md:grid-cols-3 gap-x-6 gap-y-8 my-6">
               {skills.map((skill) => (

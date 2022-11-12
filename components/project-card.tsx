@@ -26,7 +26,7 @@ const ProjectCard = ({
         {alt && img && <Image src={img} alt={alt} className="max-w-full" />}
       </div>
       {/* Tech used  */}
-      <div className="flex items-center justify-start gap-x-4 border-t border-b p-1 overflow-auto">
+      <div className="flex items-center justify-start gap-x-4 border-t border-b p-1 overflow-auto scrollbar-hide">
         {techUsed.map((lang) => (
           <small key={lang}>{lang}</small>
         ))}

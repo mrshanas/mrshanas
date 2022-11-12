@@ -1,3 +1,5 @@
+import { LoadingAnim } from "@components/index";
+
 export default function Loading() {
-  return <p className="text-appGray">Loading...</p>;
+  return <LoadingAnim />;
 }
