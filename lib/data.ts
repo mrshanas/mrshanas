@@ -91,3 +91,11 @@ export const smallProjects = [
     techUsed: ["Sass", "Responsiveness", "HTML"],
   },
 ];
+
+export const funFacts = [
+  "I love debugging",
+  "I'm not always serious",
+  "I talk to myself 70% of the day",
+  "When my code doesn't run...",
+  "I love MCU movies",
+];
