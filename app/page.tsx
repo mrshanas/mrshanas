@@ -9,17 +9,22 @@ import { currentlyWorking } from "@lib/current";
 import { projects, skills } from "@lib/data";
 import { ProjectCard, SectionHeader, SkillCard } from "@components/index";
 
-async function getMovieQuote() {
-  const res = await fetch(
-    "https://movie-quote-api.herokuapp.com/v1/quote/?censored",
-    { cache: "no-store" }
-  );
+// async function getMovieQuote() {
+//   const res = await fetch(
+//     "https://movie-quote-api.herokuapp.com/v1/quote/?censored",
+//     { cache: "no-store" }
+//   );
 
-  return await res.json();
-}
+//   return await res.json();
+// }
 
 export default async function Home() {
-  const { quote, show } = await getMovieQuote();
+  // const { quote, show } = await getMovieQuote();
+
+  const { quote, show } = {
+    quote: 'When you\'re good at something never do it for free',
+    show: 'The Dark Knight'
+  }
 
   return (
     <main className="my-6">
