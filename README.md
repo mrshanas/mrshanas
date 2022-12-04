@@ -19,7 +19,7 @@ console.log("I love and enjoy building stuffs with code");
   "orm": ["Prisma", "Mongoose"],
   "databases": ["Postgres", "MongoDB", "MySQL"],
   "message_brokers": ["Redis", "RabbitMQ"],
-  "mobile": ["React Native", "Expo"],
+  "mobile": ["React Native", "Expo","Flutter"],
   "api": ["REST", "GraphQL"],
   "deploying": ["Digital Ocean", "Vercel", "GH Pages"],
   "more": ["Docker", "Firebase", "Redux", "VS Code", "Git"]
