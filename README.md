@@ -35,10 +35,7 @@ console.log("I love and enjoy building stuffs with code");
 ## You can reach me !!!
 
 <p align="center">
-  <a href="https://upwork.com/freelancers/~019e3e31dad95ce8c4" target="_blank">
-    <img src="https://img.icons8.com/ios/50/2ECC71/upwork.png"/>
-  </a>
-  <a href="mailto:nassibshaban345@gmail.com" target="_blank">
+    <a href="mailto:nassibshaban345@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Gmail"/>
   </a>
   <a href="https://twitter.com/mrshanas" target="_blank">
