@@ -50,10 +50,10 @@ console.log("I love and enjoy building stuffs with code");
   </a>
 </p>
 <details>
-  <summary><i>My Streak & Badges</i></summary>
-   <p align="center">
+  <summary><i>Badges</i></summary>
+   <!--<p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshanas&theme=dark&hide_border=false"/>
-  </p>
+  </p>-->
   <a href="https://holopin.io/@mrshanas" target="_blank">
     <img src="https://holopin.me/mrshanas" alt="@mrshanas's Holopin board"/>
   </a>
