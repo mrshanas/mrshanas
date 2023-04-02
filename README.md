@@ -28,7 +28,7 @@ console.log("I love and enjoy building stuffs with code");
 
 <br/>
 -->
->👋 Hello I'm [_`Shanas`_](https://scribbles.mrshanas.me) and I'm trying to learn everything
+>👋 Hello I'm [_`Shanas`_](https://scribbles.mrshanas.me) and I'm interested in AI/ML and I enjoy building products around it
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile,tex,swift,kotlin,objective-c,vue,javascript,php,shell" alt="mrshanas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
