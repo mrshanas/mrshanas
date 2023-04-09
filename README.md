@@ -6,7 +6,7 @@
  * 😂 `Fun fact:` I&apos;m a DayDreamer and I think I&apos;m pixelated
 
 <details>
- <summary>Don&apos;t leave yet 😢, see my GH metrics</summary>
+ <summary>GH Stats</summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshanas&layout=compact&theme=react&hide_border=true&bg_color=0D1117&count_private=true&langs_count=10&hide=ejs,css,html,procfile,tex,swift,kotlin,objective-c,vue,javascript,php,shell" alt="mrshanas" /></p>
 
