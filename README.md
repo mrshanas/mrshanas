@@ -12,6 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshanas&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="mrshanas" /></p>
 
+## Holopin badges
  <a href="https://holopin.io/@mrshanas" target="_blank">
     <img src="https://holopin.me/mrshanas" alt="@mrshanas's Holopin board"/>
   </a>
