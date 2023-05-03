@@ -1,10 +1,10 @@
 ## 👋 Your viewing [Shanas'](https://scribbles.mrshanas.me) Profile
- <!--* 🧑‍💻 I&apos;m a Python Backend Developer working with [Django](https://www.djangoproject.com) and [FastAPI](https://fastapi.tiangolo.com)-->
  * 📝 I scribble down what I know on [Hashnode](https://hashnode.com/@mrshanas) and [Dev.to](https://dev.to/mrshanas)
- <!--* 🏫 I&apos;m currently learning [Machine Learning](https://tensorflow.org) and [Flutter](https://flutter.dev)
- * 🤷‍♂️ I sometimes do frontend with [React](https://react.dev), [React Native](https://reactnative.dev) and [Next.js](https://beta.nextjs.org)
- * ☁️ I deploy my projects on [DigitalOcean](https://cloud.digitalocean.com) using [Docker](https://hub.docker.com)
- * 😂 `Fun fact:` I&apos;m a DayDreamer and I think I&apos;m Pixelated-->
+ * 🛠️ I break and build things with Python, Typescript and Dart
+
+## 📑 Articles
+* [How to use Webpack with React](https://www.turing.com/kb/use-webpack-with-react "Written by me😎")
+
 
 <details>
  <summary>GH Stats</summary>
