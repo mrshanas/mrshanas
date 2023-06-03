@@ -1,6 +1,6 @@
 ## 👋 Your viewing [Shanas'](https://scribbles.mrshanas.me) Profile
  * 📝 I scribble down what I know on [Hashnode](https://hashnode.com/@mrshanas) and [Dev.to](https://dev.to/mrshanas)
- * 🛠️ I break and build things with Python, Typescript and Dart
+ * 🛠️ I break and build things with Python and Typescript
 
 ## 📑 Articles
 * [How to use Webpack with React](https://www.turing.com/kb/use-webpack-with-react "Written by me😎")
