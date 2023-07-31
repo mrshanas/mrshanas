@@ -4,6 +4,7 @@
 
 ## 📑 Articles
 * [How to use Webpack with React](https://www.turing.com/kb/use-webpack-with-react "Written by me😎")
+* [How to build apps using Next.js](https://www.turing.com/kb/nextjs-tutorial)
 
 
 <details>
