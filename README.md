@@ -1,8 +1,21 @@
-## 👋 Your viewing [Shanas'](https://scribbles.mrshanas.me) Profile
+<!--## 👋 Your viewing [Shanas'](https://scribbles.mrshanas.me) Profile
  * 📝 I scribble down what I know on [Hashnode](https://hashnode.com/@mrshanas) and [Dev.to](https://dev.to/mrshanas)
- * 🛠️ I break and build things with Python and Typescript
+ * 🛠️ I break and build things with Python and Typescript-->
 
-## 📑 Articles
+ * 🖐️ This Shanas, I break and build things that run on electronic devices
+ * I'm not a robot 🤖
+   
+### You can find me on:
+- [Hashnode](https://mrshanas.hashnode.dev)
+- [Reddit](reddit.com/u/mrshanas)
+- [Telegram](https://t.me/mrshanas)
+- [X](https://x.com/mrshanas)
+  
+<a href="https://holopin.io/@mrshanas" target="_blank">
+    <img src="https://holopin.me/mrshanas" alt="@mrshanas's Holopin board"/>
+ </a>
+
+<!--## 📑 Articles
 * [How to use Webpack with React](https://www.turing.com/kb/use-webpack-with-react "Written by me😎")
 * [How to build apps using Next.js](https://www.turing.com/kb/nextjs-tutorial)
 
