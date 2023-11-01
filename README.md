@@ -5,7 +5,7 @@
  * 🖐️ This is Shanas, I break and build things that run on electronic devices
  * I'm not a robot 🤖
    
-### You can find me on:
+#### You can find me on:
 - [Hashnode](https://mrshanas.hashnode.dev)
 - [Reddit](https://reddit.com/u/mrshanas)
 - [Telegram](https://t.me/mrshanas)
