@@ -2,7 +2,7 @@
  * 📝 I scribble down what I know on [Hashnode](https://hashnode.com/@mrshanas) and [Dev.to](https://dev.to/mrshanas)
  * 🛠️ I break and build things with Python and Typescript-->
 
- * 🖐️ This Shanas, I break and build things that run on electronic devices
+ * 🖐️ This is Shanas, I break and build things that run on electronic devices
  * I'm not a robot 🤖
    
 ### You can find me on:
