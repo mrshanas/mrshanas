@@ -7,7 +7,6 @@
    
 #### You can find me on:
 - [Hashnode](https://mrshanas.hashnode.dev)
-- [Reddit](https://reddit.com/u/mrshanas)
 - [Telegram](https://t.me/mrshanas)
 - [X](https://x.com/mrshanas)
   
