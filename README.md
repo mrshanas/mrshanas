@@ -4,11 +4,6 @@
 
  * 🖐️ This is Shanas, I break and build things that run on electronic devices
  * I'm not a robot 🤖
-   
-#### You can find me on:
-- [Hashnode](https://mrshanas.hashnode.dev)
-- [Telegram](https://t.me/mrshanas)
-- [X](https://x.com/mrshanas)
   
 <a href="https://holopin.io/@mrshanas" target="_blank">
     <img src="https://holopin.me/mrshanas" alt="@mrshanas's Holopin board"/>
